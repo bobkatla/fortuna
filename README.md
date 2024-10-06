@@ -1,1 +1,3 @@
-# treasure-hunt-pro
+# Fortuna
+
+Journey to the one treasure
